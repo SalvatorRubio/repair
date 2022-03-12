@@ -1,0 +1,22 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  height: 70px;
+  width: 100%;
+  color: #fff;
+  z-index: 1;
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+.title {
+  font-weight: 400;
+}

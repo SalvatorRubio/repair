@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 25px;
+  width: 33.333%;
+}
+
+.cost {
+  margin: 0;
+  font-size: 18px;
+  width: 33.333%;
+}
